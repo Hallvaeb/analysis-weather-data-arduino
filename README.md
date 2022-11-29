@@ -1,7 +1,7 @@
 # Project members
 Hallvard Enger Bjørgen, Norway, 105243
 Elliot Alexander Ferning, Sweden, 105003
----Miguel: fill in your name here---
+Miguel Cruz Irimia, Spain,  1104357
 ---Manu: fill in your name here---
 
 # Advanced Automation Project Structure
