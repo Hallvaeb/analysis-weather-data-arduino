@@ -1,6 +1,6 @@
 # Project members
 Hallvard Enger Bjørgen, Norway, 105243
-
+Elliot Alexander Ferning, Sweden, 105003
 # Advanced Automation Project Structure
 
 *A logical, reasonably standardized, but flexible project structure for doing and sharing work. (based on [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/))*
