@@ -1,8 +1,13 @@
+# Report
+See the report for details:  
+https://github.com/Hallvaeb/analysis-weather-data-arduino/blob/master/report_project_group13.pdf
+
+
 # Project members group 13
-Hallvard Enger Bjørgen, Norway, 105243
-Elliot Alexander Ferning, Sweden, 105003
-Miguel Cruz Irimia, Spain,  1104357
-Manuel Sach, Germany, 105357
+Hallvard Enger Bjørgen, Norway, 105243  
+Elliot Alexander Ferning, Sweden, 105003  
+Miguel Cruz Irimia, Spain,  1104357  
+Manuel Sach, Germany, 105357  
 
 # Advanced Automation Project Structure
 
